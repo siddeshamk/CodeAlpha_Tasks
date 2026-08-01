@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated packet log
+captured_packets.csv
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
