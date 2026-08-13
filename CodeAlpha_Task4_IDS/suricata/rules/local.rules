@@ -1,0 +1,1 @@
+alert ip any any -> any any (ip_proto:1; msg:"CodeAlpha IDS - IPv4 ICMP Traffic Detected"; sid:1000001; rev:2;)

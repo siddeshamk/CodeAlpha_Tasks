@@ -1,0 +1,21 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Suricata generated logs and network captures
+logs/
+*.pcap
+*.pcapng
+
+# Generated alert report containing live network data
+reports/IDS_Alert_Report.md
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows files
+Thumbs.db
+Desktop.ini
